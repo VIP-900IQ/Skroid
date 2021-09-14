@@ -1,5 +1,5 @@
 # Skroid
-[logo](bot logo.png)
+![logo](https://github.com/SkrDoesStuff/Skroid/blob/master/bot%20logo.png)
 Skroid is a feature-rich Moderation and Music bot. From Playing music, saying hi, sending dm to advanced level moderation, It is the best bot for small to medium-sized discord servers. It is made using discord.py library. I have credited all the sources at the bottom from where I scraped up the code and knowledge to make this bot. I made this bot for my own purpose but later thought of opening it to public, whoevers wants to contribute for this bot can freely do it, just make a pull request and I will see whether to accept it or not!
 
 Bot prefix - ^
