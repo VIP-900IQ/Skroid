@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "repl_python3_Skroid"
+version = "0.1.0"
+description = ""
+authors = ["SkrDoesStuff <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+praw = "^7.4.0"
+python-decouple = "^3.4"
+wikipedia = "^1.4.0"
+youtube_dl = "^2021.6.6"
+async-timeout = "^3.0.1"
+discord = "^1.7.3"
+env-file = "^2020.12.3"
+Flask = "^2.0.1"
+PyNaCl = "^1.4.0"
+discord-components = "^2.1.1"
+discord-ext-slash = "^0.8.1"
+discord-slash-components = "^0.0.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
