@@ -1024,7 +1024,7 @@ class Moderation(commands.Cog):
 
     @commands.command(
         name='unban', 
-        help='Unbans a member in server.'
+        help='Unbans a user in server.'
     )
     @commands.has_permissions(ban_members=True)
     async def unban(self, ctx: commands.Context, member: discord.User):
